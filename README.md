@@ -4,12 +4,6 @@ Contact: 881 500 058
 ## Project subject
 RPG Game
 
-## Next subjects
-* inline styles
-* routing
-* styling
-* hooks
-
 ## Links
 ### Day 1
 Subjects: **basics of javascript**
