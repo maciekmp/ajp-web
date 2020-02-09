@@ -1,5 +1,8 @@
 # ajp-web
 
+Dzisiaj 30 minut później
+Contact: 881 500 058
+
 ## Project subject
 RPG Game
 
