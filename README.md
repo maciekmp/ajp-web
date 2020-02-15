@@ -25,3 +25,5 @@ Subjects: **overwrite styles with styled components**
 * https://codesandbox.io/s/wizardly-monad-6723u - styled components in material ui
 * https://codesandbox.io/s/floral-bash-q6jdm - game project
 
+### Day 5
+* https://codesandbox.io/s/epic-davinci-jfxh6 - game project 2
