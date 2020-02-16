@@ -28,3 +28,7 @@ Subjects: **overwrite styles with styled components**
 ### Day 5
 * https://codesandbox.io/s/epic-davinci-jfxh6 - game project 2
 * https://codesandbox.io/s/dazzling-curie-n6vv9 - circles collision
+
+### Day 6
+https://codesandbox.io/s/aged-framework-v19o9 - shared logic with children func, hoc and hook
+
