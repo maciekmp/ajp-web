@@ -33,4 +33,5 @@ Subjects: **overwrite styles with styled components**
 * https://codesandbox.io/s/aged-framework-v19o9 - shared logic with children func, hoc and hook
 * https://codesandbox.io/s/focused-faraday-77lx8 - fuel calculator
 * https://codesandbox.io/s/rough-voice-8ijo8 - currency rates history
+* https://codesandbox.io/s/nervous-mahavira-875uv - snake game
 
