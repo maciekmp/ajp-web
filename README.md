@@ -30,5 +30,6 @@ Subjects: **overwrite styles with styled components**
 * https://codesandbox.io/s/dazzling-curie-n6vv9 - circles collision
 
 ### Day 6
-https://codesandbox.io/s/aged-framework-v19o9 - shared logic with children func, hoc and hook
+* https://codesandbox.io/s/aged-framework-v19o9 - shared logic with children func, hoc and hook
+* https://codesandbox.io/s/focused-faraday-77lx8 - fuel calculator
 
